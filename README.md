@@ -1,4 +1,4 @@
-# Saude-Mental-Curitiba-Regiao
+# Projeto-final-do-codigos-do-amanha-Ebanx
 _Projeto desenvolvido no programa de formação Códigos do Amanhã do Ebanx._
 
 Análise da demanda de atendimentos de saúde mental da população de Curitiba e Região Metropolitana
